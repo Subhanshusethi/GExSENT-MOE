@@ -1,4 +1,4 @@
-```markdown
+
 # GEXSent: Gated Experts for Robust Sentiment Analysis Across Modalities
 
 ## Overview
@@ -16,7 +16,7 @@ GEXSent has shown significant improvement in sentiment classification tasks by e
 
 ## Installation
 pip install -r requirements.txt
-```
+
 
 ## Preprocessing and Feature Extraction
 
