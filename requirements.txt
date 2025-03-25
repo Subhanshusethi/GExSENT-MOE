@@ -1,0 +1,5 @@
+torch==2.5.1
+transformers==4.48.1
+tqdm
+matplotlib
+numpy
