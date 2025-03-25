@@ -61,12 +61,3 @@ If you'd like to contribute to the project, feel free to fork the repository, cr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Key Sections:
-1. **Overview**: Brief description of what the project is about.
-2. **Installation**: Installation instructions for the environment and dependencies.
-3. **Preprocessing**: Instructions for running the preprocessing script and setting up paths.
-4. **Training and Evaluation**: How to run `main.py` for training and evaluation, and how to adjust configuration.
-5. **Notes**: Information about upcoming features and updates.
-6. **Contributing**: Instructions for contributing to the repository.
-7. **License**: Licensing details (optional based on the license you choose).
