@@ -3,9 +3,10 @@
 
 ## Overview
 
-!(images/Screenshot from 2025-08-08 15-44-12.png)
-!(images/Screenshot from 2025-08-08 15-43-49.png)
-!(images/Screenshot from 2025-08-08 15-41-54.png)
+![A brief description of the first image](images/Screenshot from 2025-08-08 15-44-12.png)
+![A brief description of the second image](images/Screenshot from 2025-08-08 15-43-49.png)
+![A brief description of the third image](images/Screenshot from 2025-08-08 15-41-54.png)
+
 
 GEXSent is a novel framework for **Multimodal Sentiment Analysis (MSA)** that leverages advanced models like **Modern BERT** for text and **CLIP** for visual feature extraction. It integrates two powerful feature enhancement modules: **Hierarchical Gated Mixture of Experts (H-GMoE)** and **Gated Attention Mechanism (GAM)**, enabling more focused and robust sentiment analysis across various modalities, including text, images, and videos.
 
